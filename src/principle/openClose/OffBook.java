@@ -4,10 +4,6 @@
 package principle.openClose;
 
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
-import java.util.EventListener;
-
 public class OffBook extends Book{
     /**
      * 原价大于40元，打9折
